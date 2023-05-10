@@ -10,8 +10,11 @@ The script may generate a report detailing any vulnerabilities that were found, 
 
 Installation
 pip3 install 
+
 beautifulsoup4==4.9.3
+
 httpx==0.16.1
+
 requests==2.26.0
 
 
