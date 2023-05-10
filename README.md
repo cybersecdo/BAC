@@ -9,7 +9,7 @@ The script may also attempt to bypass access controls using different techniques
 The script may generate a report detailing any vulnerabilities that were found, including the specific resources that were accessed, the user accounts used to access them, and any issues with the access control mechanisms that were identified. This report can then be used to inform further security testing and remediation efforts.
 
 Installation
-
+pip3 install 
 beautifulsoup4==4.9.3
 httpx==0.16.1
 requests==2.26.0
